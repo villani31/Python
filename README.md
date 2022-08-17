@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="python-img.png" >
+</p>
+
 # Thiago Villani
 ## Projetos desenvolvido usando a linguagem Python
 

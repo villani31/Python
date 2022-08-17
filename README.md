@@ -1,5 +1,5 @@
 # Thiago Villani
-## Projeto desenvolvido usando a linguagem Python
+## Projetos desenvolvido usando a linguagem Python
 
 ------------------------------------------------------------
 ## Projetos:
